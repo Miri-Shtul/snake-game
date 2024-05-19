@@ -23,7 +23,7 @@ Use the arrow keys to move the snake and try to eat the green food. Avoid hittin
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/snake-game.git
+    git clone https://github.com/Miri-Shtul/snake-game.git
     ```
 2. **Navigate to the project directory:**
     ```bash
